@@ -1,7 +1,0 @@
-Account Password : xwT6WSRyn14
-username : if0_36385408!
-MySQL DB Name : if0_36385408_frontend_bootcamp
-MySQL User Name : if0_36385408
-MySQL Password : (Your vPanel Password)
-MySQL Host Name : sql302.infinityfree.com
-FTP hostname:	ftpupload.net
